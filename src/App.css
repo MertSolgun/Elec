@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,400;1,100&display=swap");
+body {
+  font-family: "JetBrains Mono", monospace;
+}
+.main {
+  background-image: url("./pages/img/finance.jpg");
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.welcome {
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  left: 50%;
+  top: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.product-list img {
+  object-fit: contain;
+}
+.buttonDiv {
+  display: flex;
+}
+
+.productForm {
+  background-image: linear-gradient(135deg, #52e5e7 10%, #130cb7 100%);
+  min-height: 100vh;
+  padding-top: 3rem;
+}
+
+.productForm form {
+  background-color: rgba(255, 255, 255, 0.215);
+}
+
+.navbar {
+  background-color: #000;
+}
+
+.active {
+  background-color: #2f77f465;
+  border-radius: 10px;
+  padding: 5px 10px;
+}
+
+.product-details {
+  background-image: linear-gradient(135deg, #52e5e7 10%, #130cb7 100%);
+  min-height: 100vh;
+}
+
+.productMain {
+  background-image: linear-gradient(135deg, #52e5e7 10%, #130cb7 100%);
+  min-height: 100vh;
+}
+
+.card-total {
+  background-color: #b06b0b22;
+  border-radius: 10px;
+  box-shadow: 5px 5px black;
+}

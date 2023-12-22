@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cc06e3e.css",
+    "main.js": "/static/js/main.1195d6e3.js",
+    "static/media/finance.jpg": "/static/media/finance.74cfab0cb39ad2c00c6f.jpg",
+    "index.html": "/index.html",
+    "main.2cc06e3e.css.map": "/static/css/main.2cc06e3e.css.map",
+    "main.1195d6e3.js.map": "/static/js/main.1195d6e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc06e3e.css",
+    "static/js/main.1195d6e3.js"
+  ]
+}
